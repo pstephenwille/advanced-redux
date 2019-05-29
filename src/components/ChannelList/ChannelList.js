@@ -3,6 +3,7 @@ import {ChannelListItem} from './ChannelListItem'
 export const ChannelList = ({channels,activeChannel,setActiveChannel})=>(
     <div>
         <div>
+          <h1>XXX-YYY</h1>
             <h3>Channels</h3>
         </div>
         <div className="list-group">
